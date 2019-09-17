@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  not_so_empty_hash = { 
+  not_so_empty_hash = {
     somethingsomething: "something or another"}
 end
 
