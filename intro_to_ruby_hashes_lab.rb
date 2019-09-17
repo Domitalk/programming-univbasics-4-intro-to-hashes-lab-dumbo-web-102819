@@ -15,7 +15,7 @@ end
 
 def id_generator
   id_generator_hash = {
-    id: "2039840980982304"
+    id: 2039840980982304
   }
 end
 
