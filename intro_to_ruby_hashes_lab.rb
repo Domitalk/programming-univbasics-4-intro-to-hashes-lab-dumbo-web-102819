@@ -4,7 +4,7 @@ end
 
 def my_hash
   not_so_empty_has = {
-    somethingsomething = "something or another"
+    somethingsomething: = "something or another"
   }
 end
 
